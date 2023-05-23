@@ -1,8 +1,8 @@
 ### Hello World   
-## I'm Humna Sultan (she/her)!  
-# I'm a computer science major and information systems minor at Stevens Institute of Technology 🦆   
+# I'm Humna Sultan (she/her)!  
+## I'm a computer science major and information systems minor at Stevens Institute of Technology 🦆   
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
-I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!
+I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
 
 ---
 
@@ -18,9 +18,9 @@ We post accessible educational content relating to technology and all STEM field
 
 ---
 
-**Connect With Me!**
-[LinkedIn](https://www.linkedin.com/in/humna-sultan/)
-[LeetCode](https://leetcode.com/humnasul/)
+**Connect With Me!**  
+[LinkedIn](https://www.linkedin.com/in/humna-sultan/)  
+[LeetCode](https://leetcode.com/humnasul/)  
 <!--
 **humnasul/humnasul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
