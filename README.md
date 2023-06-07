@@ -19,6 +19,7 @@ Visit our Carrd for more socials and additional resources!!
 ---
 
 **Connect With Me!**  
+[See my coding playlist on Spotify!!](https://open.spotify.com/playlist/2XcpOFixCnc8DHQ5OwGz06?si=8e0eb76396a54302)
 [LinkedIn](https://www.linkedin.com/in/humna-sultan/)  
 [LeetCode](https://leetcode.com/humnasul/)  
 <!--
