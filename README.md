@@ -1,4 +1,4 @@
-## Hello World 👩‍💻
+## Hello World <3 👩‍💻
 ### I'm Humna Sultan! I'm a computer science major and information systems minor at Stevens Institute of Technology 🦆   
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
 I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
