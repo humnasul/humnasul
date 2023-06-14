@@ -12,7 +12,7 @@ I'm a huge advocate for women in STEM, accessibility to learn about STEM, and in
 
 ---
 
-__**[Click here](https://www.instagram.com/leadingedge.tech/) to follow my organization, Leading Edge Tech, on Instagram!**__  
+_**[Click here](https://www.instagram.com/leadingedge.tech/) to follow my organization, Leading Edge Tech, on Instagram!**_  
 We post accessible educational content relating to technology and all STEM fields, share resources, launch projects for diversity, and host interactive activities!  
 Visit our Carrd for more socials and additional resources!!
 
