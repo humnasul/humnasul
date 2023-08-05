@@ -21,7 +21,8 @@ Visit our Carrd for more socials and additional resources!!
 ## Connect With Me!
 - **[See my coding playlist on Spotify!!](https://open.spotify.com/playlist/2XcpOFixCnc8DHQ5OwGz06?si=8e0eb76396a54302)**  
 - **[LinkedIn](https://www.linkedin.com/in/humna-sultan/)**   
-- **[LeetCode](https://leetcode.com/humnasul/)**  
+- **[LeetCode](https://leetcode.com/humnasul/)**
+- **[humnasultan@gmail.com](mailto:humnasultan@gmail.com)**
 <!--
 **humnasul/humnasul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
