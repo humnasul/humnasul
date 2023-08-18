@@ -9,7 +9,8 @@ I'm a huge advocate for women in STEM, accessibility to learn about STEM, and in
 **My languages: Java, Python, JavaScript, HTML, CSS, Scheme, C++ 😊**  
 - 🔭 I’m currently working on polishing, refreshing practicing my C++ skills for the upcoming semester!  
 - 🌱 I’m currently learning more about the Linux infrastructure and applications + using SQL for data analysis!  
-- 🤩 I'm working on my problem solving skills everyday through consistently doing different programming challenges, reading books, etc. !  
+- 🤩 I'm working on my problem solving skills everyday through consistently doing different programming challenges, reading books, etc. !
+- 👾 Organizations: Stevens Women in CS, Society of Women Engineers, Women Who Code, Rewriting The Code, Encouraging Women Across All Borders  
 
 ---
 
