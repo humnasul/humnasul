@@ -6,7 +6,7 @@ I'm a huge advocate for women in STEM, accessibility to learn about STEM, and in
 
 ---
 
-**My languages: Java, Python, JavaScript, HTML, CSS, Scheme, C++ 😊**  
+**My languages: Java, Python, JavaScript, HTML, CSS, Scheme, C++, C, LEGv8, ARMv8 😊**  
 - 🔭 I’m currently working on polishing, refreshing practicing my C++ skills for the upcoming semester!  
 - 🌱 I’m currently learning more about the Linux infrastructure and applications + using SQL for data analysis!  
 - 🤩 I'm working on my problem solving skills everyday through consistently doing different programming challenges, reading books, etc. !
