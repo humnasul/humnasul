@@ -1,6 +1,6 @@
 ## Hello World <3 👩‍💻
 ### I'm Humna Sultan! I'm a computer science major and information systems minor at Stevens Institute of Technology 🦆   
-⭐ **Currently looking for Summer 2024 Internships** - feel free to contact me (below in "Connect With Me")!  
+⭐ **Currently looking for Summer 2025 Internships** - feel free to contact me (below in "Connect With Me")!  
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
 I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
 
@@ -11,7 +11,8 @@ I'm a huge advocate for women in STEM, accessibility to learn about STEM, and in
 - 🔭 I’m learning about OCaml, Bash, R and SQL + looking into summer research in computer science!  
 - 🌱 I’m currently learning more about the Linux infrastructure and applications + using SQL for data analysis!  
 - 🤩 I'm working on my problem solving skills everyday through consistently doing different programming challenges, reading books, etc. !
-- 👾 Organizations: Stevens Women in CS, Society of Women Engineers, Women Who Code, Rewriting The Code, Encouraging Women Across All Borders, IEEE  
+- 😝 I am President of Stevens Women in Computer Science for the 2024 - 2025 school year and am super excited for all that we will accomplish !
+- 👾 Organizations: Society of Women Engineers, Women Who Code, Rewriting The Code, Encouraging Women Across All Borders, IEEE  
 
 ---
 
