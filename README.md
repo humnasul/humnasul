@@ -9,10 +9,9 @@ I'm a huge advocate for women in STEM, accessibility to learn about STEM, and in
 **My languages: Java, Python, JavaScript, HTML, CSS, Scheme, C++, C, LEGv8, ARMv8, OCaml 😊**  
 **Working On Proficiency In... : SQL, Bash, R, LaTeX**
 - 🚀 Currently doing summer research with Stevens Institute of Technology's Department of Physics that focuses on making satellite image processing more efficient using machine learning and neural networks!  
-- 🌱 I’m currently learning more about the Linux infrastructure and applications + using SQL for data analysis!
-- 📚 I'm doing research in Summer 2024 using machine learning applications and data science to implement ocean image recognition from satellite images and data !  
-- 🤩 I'm working on my problem solving skills everyday through consistently doing different programming challenges, reading books, etc. !
 - 😝 I am President of Stevens Women in Computer Science for the 2024 - 2025 school year and am super excited for all that we will accomplish !
+- 🌱 I’m currently learning more about the Linux infrastructure and applications!
+- 🤩 I'm working on my problem solving skills everyday through consistently doing different programming challenges, reading books, etc. !
 - 👾 Organizations: Society of Women Engineers, Women Who Code, Rewriting The Code, Encouraging Women Across All Borders, IEEE  
 
 ---
