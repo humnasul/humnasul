@@ -24,7 +24,8 @@ Visit our Carrd for more socials and additional resources!!
 ---
 
 ## Connect With Me!
-- **[See my coding playlist on Spotify!!](https://open.spotify.com/playlist/2XcpOFixCnc8DHQ5OwGz06?si=8e0eb76396a54302)**  
+- **[See my coding playlist on Spotify!!](https://open.spotify.com/playlist/2XcpOFixCnc8DHQ5OwGz06?si=8e0eb76396a54302)**
+- **[grinding leetcode / textbooks playlist :)](https://open.spotify.com/playlist/7ljQlZ9FvgmMBKl9eLyIvj?si=68eadee1e5e74505)**
 - **[LinkedIn](https://www.linkedin.com/in/humna-sultan/)**   
 - **[LeetCode](https://leetcode.com/humnasul/)**
 - **[humnasultan@gmail.com](mailto:humnasultan@gmail.com)**
