@@ -9,9 +9,9 @@ I'll be attending the Grace Hopper Celebration Conference in October - **feel fr
 
 **My languages: Java, Python, JavaScript, HTML, CSS, Scheme, C++, C, LEGv8, ARMv8, OCaml 😊**  
 **Working On Proficiency In... : SQL, Bash, R, LaTeX**
-- 🚀 Currently doing summer research with Stevens Institute of Technology's Department of Physics that focuses on making satellite image processing more efficient using machine learning and neural networks!  
+- 🚀 Currently doing summer research with Stevens Institute of Technology's Department of Physics that focuses on making satellite image processing more efficient using machine learning and neural networks! Advisor: [Professor Knut Stamnes](https://www.stevens.edu/profile/kstamnes)  
 - 😝 I am President of Stevens Women in Computer Science for the 2024 - 2025 school year and am super excited for all that we will accomplish !
-- 🌱 I’m currently learning more about the Linux infrastructure and applications!
+- 🌱 I’m currently learning more about the Linux infrastructure and applications!  
 - 🤩 I'm working on my problem solving skills everyday through consistently doing different programming challenges, reading books, etc. !
 - 👾 Organizations: Society of Women Engineers, Women Who Code, Rewriting The Code, Encouraging Women Across All Borders, IEEE  
 
