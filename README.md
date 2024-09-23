@@ -3,7 +3,7 @@
 ⭐ **Currently looking for Summer 2025 Internships** - feel free to contact me (below in "Connect With Me")!  
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
 I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
-I'll be attending the Grace Hopper Celebration Conference in October - **feel free to meet me or contact me!**  
+I'll be attending the Grace Hopper Celebration Conference in October 2024 - **feel free to meet me or contact me!**  
 
 ---
 
