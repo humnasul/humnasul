@@ -1,15 +1,13 @@
 ## Hello World <3 👩‍💻
 ### I'm Humna Sultan! I'm a computer science major and information systems minor at Stevens Institute of Technology 🦆   
-⭐ **Currently looking for Summer 2025 Internships** - feel free to contact me (below in "Connect With Me")!  
-🎉 **Attending Grace Hopper Celebration 2024 In-Person! Please contact me if interested in connecting!**  
+🎉 **Just Attended Grace Hopper Celebration 2024 In-Person!**  
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
 I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
-I'll be attending the Grace Hopper Celebration Conference in October 2024 - **feel free to meet me or contact me!**  
 
 ---
 
 **My languages: Java, Python, JavaScript, HTML, CSS, Scheme, C++, C, LEGv8, ARMv8, OCaml, LaTeX, R 😊**  
-**Working On Proficiency In... : SQL, Bash, Groovy**
+**Working On Proficiency In... : SQL, Bash, Groovy, Erlang**
 - 🚀 Just finished doing some summer research with Stevens Institute of Technology's Department of Physics that focuses on making satellite image processing more efficient using machine learning and neural networks! Advisor: [Professor Knut Stamnes](https://www.stevens.edu/profile/kstamnes)  
 - 😝 I am President of Stevens Women in Computer Science for the 2024 - 2025 school year and am super excited for all that we will accomplish !
 - 🌱 I’m currently learning more about the Linux infrastructure and applications!  
