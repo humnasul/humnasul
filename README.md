@@ -1,9 +1,10 @@
 ## Hello World <3 👩‍💻
 ### I'm Humna Sultan! I'm an undergraduate senior, computer science major and information systems minor at Stevens Institute of Technology 🦆       
 I plan to pursue my master's in machine learning at Stevens Institute of Technology, expected graduation May 2027    
-🎉 I'm currently a software engineering intern at Prudential Financial during Summer 2025!
+
+**🎉 I'm currently a software engineering intern at Prudential Financial during Summer 2025!**
 I've joined the payment systems platform team, specializing in cloud computing.
--
+
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
 I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
 
