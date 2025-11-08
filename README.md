@@ -2,7 +2,7 @@
 ### I'm Humna Sultan! I'm an undergraduate senior, computer science major and information systems minor at Stevens Institute of Technology 🦆       
 I plan to pursue my master's in machine learning at Stevens Institute of Technology, expected graduation May 2027    
 
-## ❗️Currently seeking Summer 2026 internship opportunities - reach out at hsultan@stevens.edu    
+## ❗️Seeking Summer 2026 internship opportunities - reach out at hsultan@stevens.edu    
 
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
 I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
