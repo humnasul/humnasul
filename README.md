@@ -2,8 +2,7 @@
 ### I'm Humna Sultan! I'm an undergraduate senior, computer science major and information systems minor at Stevens Institute of Technology 🦆       
 I plan to pursue my master's in machine learning at Stevens Institute of Technology, expected graduation May 2027    
 
-**🎉 I'm currently a software engineering intern at Prudential Financial during Summer 2025!**
-I've joined the payment systems platform team, specializing in cloud computing.
+## ❗️Currently seeking Summer 2026 internship opportunities - reach out at hsultan@stevens.edu    
 
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
 I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
@@ -12,7 +11,7 @@ I'm a huge advocate for women in STEM, accessibility to learn about STEM, and in
 
 **My languages: Java, Python, JavaScript, HTML, CSS, Scheme, C++, C, LEGv8, ARMv8, OCaml, LaTeX, R, Groovy, Erlang, Bash 😊**  
 **Working On Proficiency In... : SQL, AWS**
-- 🤭 Attended the Grace Hopper Celebration 2024 and Harvard WECode 2025 In-Person!
+- 😍 I was previously a software engineering intern for Prudential Financial during summer 2025!
 - 😝 I am President of Stevens Women in Computer Science (SWiCS) and have been for over a year - I helped organize Stevens' first student-run hackathon (Quack Hacks 2025) and the first ever Women's Gala !
 - 🚀 Did summer research in 2024 with Stevens Institute of Technology's Department of Physics that focuses on making satellite image processing more efficient using machine learning and neural networks! Advisor: [Professor Knut Stamnes](https://www.stevens.edu/profile/kstamnes)  
 - 🌱 I’m currently learning more about the applications of machine learning and cloud computing!
