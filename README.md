@@ -5,7 +5,6 @@ I plan to pursue my master's in machine learning at Stevens Institute of Technol
 ## ❗️Seeking Summer 2026 internship opportunities - reach out at hsultan@stevens.edu    
 
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
-I'm a huge advocate for women in STEM, accessibility to learn about STEM, and inclusive leadership!  
 
 ---
 
@@ -21,7 +20,7 @@ I'm a huge advocate for women in STEM, accessibility to learn about STEM, and in
 ---
 
 _**[Click here](https://www.instagram.com/leadingedge.tech/) to follow my organization, Leading Edge Tech, on Instagram!**_  
-We post accessible educational content relating to technology and all STEM fields, share resources, launch projects for diversity, and host interactive activities!  
+We post accessible educational content relating to technology and all STEM fields, share resources, and host interactive activities!  
 Visit our Carrd for more socials and additional resources!!
 
 ---
