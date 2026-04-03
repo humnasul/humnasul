@@ -1,6 +1,6 @@
 ## Hello World <3 👩‍💻
 ### I'm Humna Sultan! I'm an undergraduate senior, computer science major and information systems minor at Stevens Institute of Technology 🦆       
-I plan to pursue my master's in data science & decision analytics at Cornell University, graduating May 2027!    
+### I will be pursuing my master's in data science & decision analytics at Cornell University, graduating May 2027!    
 
 ## ❗️Seeking Summer 2026 internship opportunities - reach out at hsultan@stevens.edu    
 
