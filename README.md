@@ -1,8 +1,5 @@
 ## Hello World <3 👩‍💻
-### I'm Humna Sultan! I'm an undergraduate senior, computer science major and information systems minor at Stevens Institute of Technology 🦆       
-### I will be pursuing my master's in data science & decision analytics at Cornell University, graduating May 2027!    
-
-## ❗️Seeking Summer 2026 internship opportunities - reach out at hsultan@stevens.edu    
+### I'm Humna Sultan! I'm a student pursuing my master's in data science & decision analytics at Cornell University, graduating May 2027!    
 
 I have always been interested in technology and it is a huge part of my life! I'm super excited to enter the industry and apply my skills to causes that I am passionate about 💜  
 
@@ -10,8 +7,9 @@ I have always been interested in technology and it is a huge part of my life! I'
 
 **My languages: Python, R, SQL, Java, JavaScript, HTML, CSS,  C++, C 😊**  
 **Working On Proficiency In... : AWS, DataBricks, GenAI Governance**
-- 😍 I was previously a software engineering intern for Prudential Financial during summer 2025!
-- 😝 I am President of Stevens Women in Computer Science (SWiCS) and have been for over a year - I helped organize Stevens' first student-run hackathon (Quack Hacks 2025) and the first ever Women's Gala !
+- 📞 I just wrapped up my internship as an AI Intern @ Samsung, working with enterprise AI integration (Summer 2026)!
+- 😍 I was previously a cloud engineering intern for Prudential Financial during Summer 2025!
+- 😝 I was previously President of Stevens Women in Computer Science (SWiCS) and have been for over a year - I helped organize Stevens' first student-run hackathon (Quack Hacks 2025) and the first ever Women's Gala !
 - 🚀 Did summer research in 2024 with Stevens Institute of Technology's Department of Physics that focuses on making satellite image processing more efficient using machine learning and neural networks! Advisor: [Professor Knut Stamnes](https://www.stevens.edu/profile/kstamnes)  
 - 🌱 I’m currently learning more about the applications of machine learning and cloud computing!
 - 🤩 I'm working on my problem solving skills everyday through consistently doing different programming challenges, reading books, etc. !
