@@ -9,10 +9,9 @@ I have always been interested in technology and it is a huge part of my life! I'
 **Currently Working on... : GenAI Governance, MongoDB integration, AI + Data for Biological Sciences**
 - 🚕 I'm a Women Techmakers Ambassador for NYC - join me for events around the city!
 - 📞 I just wrapped up my internship as an AI Intern @ Samsung, working with enterprise AI integration (Summer 2026)!
-- 😍 I was previously a cloud engineering intern for Prudential Financial during Summer 2025!
+- 🛰️I was a cloud engineering intern for Prudential Financial, optimizing data storage and communication with AWS (Summer 2025)!
 - 😝 I was previously President of Stevens Women in Computer Science (SWiCS) and have been for over a year - I helped organize Stevens' first student-run hackathon (Quack Hacks 2025) and the first ever Women's Gala !
-- 🚀 Did summer research in 2024 with Stevens Institute of Technology's Department of Physics that focuses on making satellite image processing more efficient using machine learning and neural networks! Advisor: [Professor Knut Stamnes](https://www.stevens.edu/profile/kstamnes)  
-- 🌱 I’m currently learning more about the applications of machine learning and cloud computing!
+- 🌱 I’m currently learning more about the intersection between machine learning, human behavior, and psycology!
 - 👾 Organizations: Women Techmakers, Society of Women Engineers, Women Who Code, Girls Who Code, Rewriting The Code, Encouraging Women Across All Borders, IEEE  
 
 ---
